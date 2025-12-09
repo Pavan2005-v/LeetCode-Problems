@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-integer-added-to-array-i/?envType=problem-list-v2&envId=array">3131. Find the Integer Added to Array I</a></h2><h3>Easy</h3><hr><p>You are given two arrays of equal length, <code>nums1</code> and <code>nums2</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-integer-added-to-array-i">3397. Find the Integer Added to Array I</a></h2><h3>Easy</h3><hr><p>You are given two arrays of equal length, <code>nums1</code> and <code>nums2</code>.</p>
 
 <p>Each element in <code>nums1</code> has been increased (or decreased in the case of negative) by an integer, represented by the variable <code>x</code>.</p>
 
