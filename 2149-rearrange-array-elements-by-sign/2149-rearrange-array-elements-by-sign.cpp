@@ -11,12 +11,12 @@ public:
             }
             else neg.push_back(nums[i]);
         }
-        nums.clear();
+        vector<int>ans;
         for(int i=0;i<pos.size();i++)
         {
-            nums.push_back(pos[i]);
-            nums.push_back(neg[i]);
+            ans.push_back(pos[i]);
+            ans.push_back(neg[i]);
         }
-        return nums;
+        return ans;
     }
 };
