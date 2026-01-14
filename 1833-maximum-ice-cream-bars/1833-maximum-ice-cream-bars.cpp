@@ -6,10 +6,10 @@ public:
         int ans=0;
         for(int i:costs)
         {
-            if(count+i<=coins)
+            if(coins-i>=0)
             {
                 ans++;
-                count+=i;
+                coins-=i;
             }
         }
         return ans;
