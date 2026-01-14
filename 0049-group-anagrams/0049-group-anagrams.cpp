@@ -2,26 +2,18 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         vector<vector<string>>ans;
-        vector<string>dup=strs;
-        for(string &str:dup)
+        unordered_map<string,vector<string>>mpp;
+        for(string &s:strs)
         {
-            sort(str.begin(),str.end());
+            string k=s;
+            sort(k.begin(),k.end());
+            mpp[k].push_back(s);
         }
-        vector<int>temp(dup.size());
-        for(int i=0;i<dup.size();i++)
+        for(auto it:mpp)
         {
-            vector<string>t;
-            if(temp[i]!=1) t.push_back(strs[i]);
-            for(int j=i+1;j<dup.size();j++)
-            {
-                if(dup[i]==dup[j]&&temp[j]!=1)
-                {
-                    t.push_back(strs[j]);
-                    temp[j]=1;
-                }
-            }
-            if(!t.empty()) ans.push_back(t);
+            ans.push_back(it.second);
         }
         return ans;
+        
     }
 };
