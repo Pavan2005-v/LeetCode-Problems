@@ -2,21 +2,23 @@ class Solution {
 public:
     int maxScore(string s) {
         int ans=0;
-        for(int i=0;i<s.length();i++)
+        vector<int>ps(s.length());
+        if(s[s.length()-1]=='1') ps[s.length()-1]=1;
+        else ps[s.length()-1]=0;
+        for(int i=s.length()-2;i>=0;i--)
         {
-            int one=0;
-            int zero=0;
-            for(int k=0;k<=i;k++)
+            if(s[i]=='1') ps[i]=ps[i+1]+1;
+            else ps[i]=ps[i+1];
+        }
+        for(int i:ps) cout<<i<<" ";
+        int c=0;
+        for(int i=0;i<s.length()-1;i++)
+        {
+            if(s[i]=='0')
             {
-                if(s[k]=='0') zero++;
+                c++;
             }
-            for(int j=i+1;j<s.length();j++)
-            {
-                if(s[j]=='1') one++;
-            }
-            if(one==0) ans=max(ans,zero-1);
-            else if(zero==0) ans=max(ans,one);
-            else ans=max(ans,one+zero);
+            ans=max(ans,c+ps[i+1]);
         }
         return ans;
     }
