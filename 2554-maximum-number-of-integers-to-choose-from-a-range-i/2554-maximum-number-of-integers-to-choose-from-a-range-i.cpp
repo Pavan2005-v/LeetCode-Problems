@@ -1,15 +1,36 @@
 class Solution {
 public:
     int maxCount(vector<int>& banned, int n, int maxSum) {
+        sort(banned.begin(),banned.end());
         int count=0;
         int sum=0;
-        for(int i=1;i<=n;i++)
+        for(int k=1;k<=n;k++)
         {
-            if(find(banned.begin(),banned.end(),i)==banned.end())
+            int i=0;
+            int j=banned.size()-1;
+            int y=0;
+            while(i<=j)
             {
-                if(sum+i<=maxSum)
+                int mid=i+(j-i)/2;
+                if(banned[mid]==k)
                 {
-                    sum+=i;
+                    y=1;
+                    break;
+                }
+                else if(banned[mid]>k)
+                {
+                    j=mid-1;
+                }
+                else if(banned[mid]<k)
+                {
+                    i=mid+1;
+                }
+            }
+            if(!y)
+            {
+                if(sum+k<=maxSum)
+                {
+                    sum+=k;
                     count++;
                 }
             }
