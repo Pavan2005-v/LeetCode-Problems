@@ -1,17 +1,16 @@
 class Solution {
 public:
     string removeOccurrences(string s, string part) {
-        string s1="Hellow";
-        s1.erase(1,2);
-        int i=0;
-        while(s.find(part)!=string::npos)
+        while(s.contains(part))
         {
-            if(s.substr(i,part.length())==part)
+            for(int i=0;i<s.length();i++)
             {
-                s.erase(i,part.length());
-                i=0;
+                if(s.substr(i,part.length())==part)
+                {
+                    s.erase(i,part.length());
+                    break;
+                }
             }
-            else i++;
         }
         return s;
     }
