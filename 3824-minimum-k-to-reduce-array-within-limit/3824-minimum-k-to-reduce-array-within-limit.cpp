@@ -14,7 +14,7 @@ public:
     int minimumK(vector<int>& nums) {
         sort(nums.begin(),nums.end());
         int i=1;
-        int j=nums[nums.size()-1];
+        int j=100000;
         int ans=-1;
         while(i<=j)
         {
@@ -29,16 +29,16 @@ public:
                 i=mid+1;
             }
         }
-        if(ans!=-1) return ans;
-        int num=nums[nums.size()-1]+1;
-        while(1)
-        {
-            if(isValid(nums,num))
-            {
-                return num;
-            }
-            else num++;
-        }
-        return 0;
+        // if(ans!=-1) return ans;
+        // int num=nums[nums.size()-1]+1;
+        // while(1)
+        // {
+        //     if(isValid(nums,num))
+        //     {
+        //         return num;
+        //     }
+        //     else num++;
+        // }
+        return ans;
     }
 };
