@@ -9,7 +9,7 @@ public:
             {
                 nums[i]-=mid;
                 count++;
-                // if((double)sqrt(count)>mid) return false;
+                if((double)sqrt(count)>mid) return false;
             }
         }
         count=sqrt(count);
