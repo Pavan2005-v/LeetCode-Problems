@@ -32,18 +32,16 @@ public:
                 i=mid+1;
             }
         }
-        if(ans==-1)
+        if(ans!=-1) return ans;
+        int num=nums[nums.size()-1]+1;
+        while(1)
         {
-            int num=nums[nums.size()-1]+1;
-            while(1)
+            if(isValid(nums,num))
             {
-                if(isValid(nums,num))
-                {
-                    return num;
-                }
-                else num++;
+                return num;
             }
+            else num++;
         }
-        return ans;
+        return 0;
     }
 };
