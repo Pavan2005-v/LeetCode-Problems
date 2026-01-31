@@ -2,17 +2,18 @@ class Solution {
 public:
     bool isValid(vector<int>nums,int mid)
     {
-        long long int count=0;
+        double count=0;
         for(int i=0;i<nums.size();i++)
         {
             while(nums[i]>0)
             {
                 nums[i]-=mid;
                 count++;
+                // if((double)sqrt(count)>mid) return false;
             }
         }
-        double count1=sqrt(count);
-        return count1<=(mid);
+        count=sqrt(count);
+        return count<=(mid);
     }
     int minimumK(vector<int>& nums) {
         sort(nums.begin(),nums.end());
