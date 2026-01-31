@@ -5,11 +5,7 @@ public:
         double count=0;
         for(int i=0;i<nums.size();i++)
         {
-            while(nums[i]>0)
-            {
-                nums[i]-=mid;
-                count++;
-            }
+            count+=(nums[i]+mid-1)/mid;
             if((double)sqrt(count)>mid) return false;
         }
         count=sqrt(count);
