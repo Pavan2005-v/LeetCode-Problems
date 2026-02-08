@@ -1,20 +1,28 @@
 class Solution {
 public:
     int maxSumDistinctTriplet(vector<int>& x, vector<int>& y) {
-        vector<pair<int,int>>nums;
-        for(int i=0;i<x.size();i++) nums.emplace_back(y[i],x[i]);
-        sort(nums.rbegin(),nums.rend());
-        unordered_set<int>temp;
-        int sum=0;
-        for(auto it:nums)
+        priority_queue<int>maxheap;
+        unordered_map<int,int>mpp;
+        for(int i=0;i<x.size();i++)
         {
-            if(!temp.contains(it.second))
+            if(mpp.contains(x[i]))
             {
-                sum+=it.first;
-                temp.insert(it.second);
+                mpp[x[i]]=max(y[i],mpp[x[i]]);
             }
-            if(temp.size()==3) return sum;
+            else mpp[x[i]]=y[i];
         }
-        return -1;
+        if(mpp.size()<3) return -1;
+        for(auto it:mpp)
+        {
+            maxheap.push(it.second);
+        }
+        int i=3;
+        int ans=0;
+        while(i--)
+        {
+            ans+=maxheap.top();
+            maxheap.pop();
+        }
+        return ans;
     }
 };
