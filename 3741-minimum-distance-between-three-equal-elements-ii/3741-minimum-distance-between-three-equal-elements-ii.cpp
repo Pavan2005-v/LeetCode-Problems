@@ -11,7 +11,7 @@ public:
         {
             if(it.second.size()>=3)
             {
-                sort(it.second.begin(),it.second.end(),greater<int>());
+                sort(it.second.begin(),it.second.end());
                 int temp=INT_MAX;
                 for(int i=0;i<it.second.size()-2;i++)
                 {
