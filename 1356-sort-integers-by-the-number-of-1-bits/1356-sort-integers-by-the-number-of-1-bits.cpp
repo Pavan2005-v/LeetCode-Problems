@@ -1,39 +1,25 @@
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-        sort(arr.begin(),arr.end());
-        vector<int> ans;
+        vector<pair<int,int>>nums;
         for(int i=0;i<arr.size();i++)
         {
             int count=0;
-            int temp=arr[i];
-            if(arr[i]==0)
+            int num=arr[i];
+            while(num>0)
             {
-                ans.push_back(0);
-                continue;
+               int temp=num&(-num);
+               num=num^temp;
+               count++;
             }
-            while(temp>0)
-            {
-                if(temp%2!=0) count++;
-                temp/=2;
-            }
-            ans.push_back(count);
+            nums.emplace_back(arr[i],count);
         }
-        vector<int> final_ans;
-        int maxi=*max_element(ans.begin(),ans.end());
-        for(int i=0;i<=maxi;i++)
-        {
-            if(find(ans.begin(),ans.end(),i)!=ans.end())
-            {
-                for(int j=0;j<ans.size();j++)
-                {
-                    if(i==ans[j])
-                    {
-                        final_ans.push_back(arr[j]);
-                    }
-                }
-            }
-        }
-        return final_ans;
+        sort(nums.begin(),nums.end(),[](const auto &it1,auto &it2){
+            if(it1.second==it2.second) return it1.first<it2.first;
+            return it1.second<it2.second;
+        });
+        vector<int>ans;
+        for(int i=0;i<nums.size();i++) ans.push_back(nums[i].first);
+        return ans;
     }
 };
