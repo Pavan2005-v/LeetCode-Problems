@@ -4,12 +4,11 @@ public:
         string ans="0";
         for(int i=0;i<n-1;i++)
         {
-            string temp=ans;
             ans+='1';
-            reverse(temp.begin(),temp.end());
-            for(int j=0;j<temp.size();j++)
+            int siz=ans.size()-2;
+            for(int j=siz;j>=0;j--)
             {
-                if(temp[j]=='0') ans+='1';
+                if(ans[j]=='0') ans+='1';
                 else ans+='0';
             }
         }
