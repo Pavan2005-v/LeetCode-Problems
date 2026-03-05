@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
