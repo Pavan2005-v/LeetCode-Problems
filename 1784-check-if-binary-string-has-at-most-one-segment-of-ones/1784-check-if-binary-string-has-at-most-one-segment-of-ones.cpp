@@ -1,20 +1,16 @@
 class Solution {
 public:
     bool checkOnesSegment(string s) {
-        int ind=-1;
-        for(int i=s.length()-1;i>=0;i--)
+        int ind=s.length()-1;
+        while(ind>0&&!(s[ind]&1))
         {
-            if(s[i]=='1')
-            {
-                ind=i;
-                break;
-            }
+            ind--;
         }
-        if(ind==-1) return false;
-        for(int i=ind;i>=0;i--)
+        if(!s.length()) return false;
+        while(ind>0&&(s[ind]&1))
         {
-            if(s[i]=='0') return false;
+            ind--;
         }
-        return true;
+        return ind==0;
     }
 };
