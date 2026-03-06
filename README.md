@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
