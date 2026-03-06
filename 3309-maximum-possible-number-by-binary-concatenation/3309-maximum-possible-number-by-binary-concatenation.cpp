@@ -1,40 +1,22 @@
 class Solution {
 public:
-    int Sample(vector<int>temp)
-    {
-        string s="";
-        for(int i=0;i<temp.size();i++)
-        {
-            int num=temp[i];
-            string t="";
-            while(num>0)
-            {
-                t+=(to_string(num%2));
-                num/=2;
-            }
-            reverse(t.begin(),t.end());
-            s+=t;
-        }
-        int ans=0;
-        int p=0;
-        for(int i=s.length()-1;i>=0;i--)
-        {
-            if(s[i]=='1') ans+=(pow(2,p));
-            p++;
-        }
-        return ans;
-    }
     int maxGoodNumber(vector<int>& nums) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end());
-        int maxi=0;
-        do
-        {
-            int n1=Sample(nums);
-            maxi=max(maxi,n1);
-        }
-        while(next_permutation(nums.begin(),nums.end()));
-        return maxi;
-
+        int a=32-__builtin_clz(nums[0]);
+        int b=32-__builtin_clz(nums[1]);
+        int c=32-__builtin_clz(nums[2]);
+        int ans=0,x;
+        x=(((nums[0]<<b)+nums[1])<<c)+nums[2];
+        ans=max(ans,x);
+        x=(((nums[0]<<c)+nums[2])<<b)+nums[1];
+        ans=max(ans,x);
+        x=(((nums[2]<<a)+nums[0])<<b)+nums[1];
+        ans=max(ans,x);        
+        x=(((nums[2]<<b)+nums[1])<<a)+nums[0];
+        ans=max(ans,x);        
+        x=(((nums[1]<<a)+nums[0])<<c)+nums[2];
+        ans=max(ans,x);
+        x=(((nums[1]<<c)+nums[2])<<a)+nums[0];
+        ans=max(ans,x);
+        return ans;
     }
 };
