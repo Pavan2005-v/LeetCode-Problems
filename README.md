@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3492-maximum-containers-on-a-ship](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 <!---LeetCode Topics End-->
