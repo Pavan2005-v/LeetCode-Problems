@@ -1,34 +1,37 @@
 class Solution {
 public:
-    int returnMax(int a,int b)
-    {
-        int ans=INT_MIN;
-        int num;
-        while(b>=0)
-        {
-            int val=a^b;
-            if(val>ans)
-            {
-                ans=val;
-                num=b;
-            }
-            b--;
-        }
-        return num;
-    }
-    vector<int> getMaximumXor(vector<int>& nums, int maximumBit) {
-        vector<int>temp;
-        temp.push_back(nums[0]);
-        int num=nums[0];
-        vector<int>ans;
+    vector<int> getMaximumXor(vector<int>& nums, int maxBit) {
+        vector<int>temp(nums.size());
+        temp[0]=nums[0];
         for(int i=1;i<nums.size();i++)
         {
-            num^=nums[i];
-            temp.push_back(num);
+            temp[i]=temp[i-1]^nums[i];
         }
+        int k=0;
+        vector<int>ans(nums.size());
         for(int i=temp.size()-1;i>=0;i--)
         {
-            ans.push_back(returnMax(temp[i],(pow(2,maximumBit))-1));
+            int num=temp[i];
+            int m=maxBit;
+            int num1=0;
+            int ind=0;
+            while(m>0||num>0)
+            {
+                if(m>0)
+                {
+                    if(!(num&1)) num1|=(1<<ind);
+                }
+                else 
+                {
+                    if(num&1) num1|=(1<<ind);
+                }
+                num>>=1;
+                m--;
+                ind++;
+            }
+            num^=num1;
+            ans[k]=num;
+            k++;
         }
         return ans;
     }
