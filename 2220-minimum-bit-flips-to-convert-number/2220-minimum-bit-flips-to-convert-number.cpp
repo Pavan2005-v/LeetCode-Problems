@@ -2,18 +2,12 @@ class Solution {
 public:
     int minBitFlips(int start, int end) {
         int count=0;
-        while(start>0&&end>0)
-        {
-            if((start%2)!=(end%2)) count++;
-            start/=2;
-            end/=2;
-        }
         while(start>0||end>0)
         {
-            if(start%2!=end%2) count++;
-            start/=2;
-            end/=2;
+            if((start&1)^(end&1)) count++;
+            start>>=1;
+            end>>=1;
         }
-        return count;
+        return count;        
     }
 };
