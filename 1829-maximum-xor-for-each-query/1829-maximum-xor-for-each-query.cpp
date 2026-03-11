@@ -7,8 +7,6 @@ public:
         {
             temp[i]=temp[i-1]^nums[i];
         }
-        int k=0;
-        vector<int>ans(nums.size());
         for(int i=temp.size()-1;i>=0;i--)
         {
             int num=temp[i];
@@ -30,9 +28,9 @@ public:
                 ind++;
             }
             num^=num1;
-            ans[k]=num;
-            k++;
+            temp[i]=num;
         }
-        return ans;
+        reverse(temp.begin(),temp.end());
+        return temp;
     }
 };
