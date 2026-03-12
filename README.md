@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [3492-maximum-containers-on-a-ship](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
