@@ -1,34 +1,33 @@
 class Solution {
 public:
+    #define ll long long int
     bool canPartitionGrid(vector<vector<int>>& grid) {
-        long long int tot=0;
-        for(auto it:grid)
+        int n=grid.size(),m=grid[0].size();
+        vector<ll>rowSum(n,0);
+        vector<ll>colSum(m,0);
+        ll tot=0;
+        for(int i=0;i<n;i++)
         {
-            
-            for(int i:it)
+            for(int j=0;j<m;j++)
             {
-                tot+=i;
+                rowSum[i]+=grid[i][j];
+                colSum[j]+=grid[i][j];
+                tot+=grid[i][j];
             }
         }
-        long long int sum=0;
-        for(auto it:grid)
+        ll sum=0;
+        for(int i=0;i<n;i++)
         {
-            for(int i:it) 
-            {
-                sum+=i;
-                if(sum>tot) break;
-            }
-            if(tot-sum==sum) return true; 
+            sum+=rowSum[i];
+            if(tot-sum==sum) return true;
+            if(sum>tot) break;
         }
         sum=0;
-        for(int i=0;i<grid[0].size();i++)
+        for(int i=0;i<m;i++)
         {
-            for(int j=0;j<grid.size();j++)
-            {
-                sum+=grid[j][i];
-                if(sum>tot) break;
-            }
-            if(tot-sum==sum) return true;  
+            sum+=colSum[i];
+            if(tot-sum==sum) return true;
+            if(sum>tot) break;
         }
         return false;
     }
