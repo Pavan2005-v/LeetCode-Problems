@@ -13,7 +13,11 @@ public:
         long long int sum=0;
         for(auto it:grid)
         {
-            for(int i:it) sum+=i;
+            for(int i:it) 
+            {
+                sum+=i;
+                if(sum>tot) break;
+            }
             if(tot-sum==sum) return true; 
         }
         sum=0;
@@ -22,6 +26,7 @@ public:
             for(int j=0;j<grid.size();j++)
             {
                 sum+=grid[j][i];
+                if(sum>tot) break;
             }
             if(tot-sum==sum) return true;  
         }
