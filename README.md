@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
