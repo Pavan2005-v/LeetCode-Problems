@@ -5,17 +5,12 @@ public:
         {
             if(s1[i]!=s2[i])
             {
-                for(int j=i+1;j<4;j++)
+                if(i+2<4&&s1[i+2]==s2[i])
                 {
-                    if(s2[i]==s1[j]&&j-i==2)
-                    {
-                        swap(s1[i],s1[j]);
-                        break;
-                    }
+                    swap(s1[i],s1[i+2]);
                 }
             }
         }
         return s1==s2;
-
     }
 };
