@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Matrix
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
