@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
