@@ -7,18 +7,14 @@ public:
         {
             mpp[nums[i]].push_back(i);
         }
-        for(auto &it:mpp)
+        for(auto it:mpp)
         {
-            if(it.second.size()>=3)
+            vector<int>temp=it.second;
+            int i=0;
+            while(i+2<temp.size())
             {
-                sort(it.second.begin(),it.second.end());
-                int temp=INT_MAX;
-                for(int i=0;i<it.second.size()-2;i++)
-                {
-                    int sum=abs(it.second[i]-it.second[i+1])+abs(it.second[i+1]-it.second[i+2])+abs(it.second[i+2]-it.second[i]);
-                    temp=min(temp,sum);
-                }
-                ans=min(temp,ans);
+                ans=min(ans,abs(temp[i]-temp[i+1])+abs(temp[i+1]-temp[i+2])+abs(temp[i+2]-temp[i]));
+                i++;
             }
         }
         if(ans==INT_MAX) return -1;
