@@ -4,12 +4,12 @@ public:
         vector<int>ans;
         for(int i=0;i<matrix.size();i++)
         {
-            int count1=0;
+            int count=0;
             for(int j=0;j<matrix[i].size();j++)
             {
-                if(matrix[i][j]==1) count1++;
+                count+=matrix[i][j];
             }
-            ans.push_back(count1);
+            ans.push_back(count);
         }
         return ans;
     }
