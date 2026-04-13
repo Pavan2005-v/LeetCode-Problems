@@ -1,26 +1,31 @@
 class Solution {
 public:
     bool checkStrings(string s1, string s2) {
-        for(char c:s1)
+        unordered_map<char,vector<int>>mpp;
+        for(int i=0;i<s1.length();i++)
         {
-            if(!s2.contains(c)) return false;
-        }
-        for(char c:s2)
-        {
-            if(!s1.contains(c)) return false;
+            mpp[s1[i]].push_back(i);
         }
         for(int i=0;i<s1.length();i++)
         {
             if(s1[i]!=s2[i])
             {
-                for(int j=i+2;j<s1.length();j+=2)
+                if(mpp.contains(s2[i]))
                 {
-                    if(s1[j]==s2[i])
+                    vector<int>temp=mpp[s2[i]];
+                    int k=1;
+                    for(int j=0;j<temp.size();j++)
                     {
-                        swap(s1[i],s1[j]);
-                        break;
+                        if(temp[j]>i&&(temp[j]-i)%2==0)
+                        {
+                            swap(s1[i],s1[temp[j]]);
+                            k=0;
+                            break;
+                        }
                     }
+                    if(k) return false;
                 }
+                else return false;
             }
         }
         return s1==s2;
