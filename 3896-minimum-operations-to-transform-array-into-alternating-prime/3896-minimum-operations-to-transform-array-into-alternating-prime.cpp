@@ -16,11 +16,12 @@ public:
             int num=nums[i];
             if(i&1)
             {
-                while(isPrime(num))
+                if(isPrime(num)&&num!=2)
                 {
-                    num++;
                     ans++;
+                    nums[i]=nums[i-1]+1;
                 }
+                else if(isPrime(num)) ans+=2;
             }
             else
             {
