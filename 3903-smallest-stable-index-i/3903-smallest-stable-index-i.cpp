@@ -8,7 +8,6 @@ public:
         {
             temp[i]=min(temp[i+1],nums[i]);
         }
-        for(int i:temp) cout<<i<<" ";
         int num=nums[0];
         for(int i=0;i<=n;i++)
         {
