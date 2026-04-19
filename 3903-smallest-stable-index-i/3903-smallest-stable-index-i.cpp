@@ -11,8 +11,8 @@ public:
         int num=nums[0];
         for(int i=0;i<=n;i++)
         {
-            if(num-temp[i]<=k) return i;
             num=max(nums[i],num);
+            if(num-temp[i]<=k) return i;
         }
         return -1;
     }
