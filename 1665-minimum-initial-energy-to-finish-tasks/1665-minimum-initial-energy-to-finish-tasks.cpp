@@ -21,10 +21,10 @@ public:
         int sum=0,ans=INT_MAX;
         for(int i=0;i<tasks.size();i++)
         {
-            sum+=tasks[i][0];
+            sum+=tasks[i][1];
         }
-        int l=sum;
-        int r=1000000000;
+        int l=0;
+        int r=sum;
         while(l<=r)
         {
             int mid=(l+r)/2;
