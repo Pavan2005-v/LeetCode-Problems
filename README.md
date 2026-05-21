@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
