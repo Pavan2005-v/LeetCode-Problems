@@ -3,27 +3,18 @@ public:
     int longestPalindrome(string s) {
         unordered_map<char,int>mpp;
         for(char c:s) mpp[c]++;
-        int maxi=INT_MIN;
+        int mark=0;
         int ans=0;
         for(auto it:mpp)
         {
-            if(it.second&1) maxi=max(maxi,it.second);
+            if(it.second&1)
+            {
+                ans+=(it.second-1);
+                mark=1;
+            }
             else ans+=it.second;
         }
-        int count=0;
-        for(auto it:mpp)
-        {
-            if(it.second&1&&it.second!=maxi) ans+=(it.second-1);
-            if(it.second==maxi) count++;
-        }
-        if(count==1) ans+=maxi;
-        else if(count>1)
-        {
-            ans+=maxi;
-            maxi--;
-            count--;
-            ans+=(count*maxi);
-        }
+        if(mark) ans++;
         return ans;
     }
 };
