@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
