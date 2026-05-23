@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
