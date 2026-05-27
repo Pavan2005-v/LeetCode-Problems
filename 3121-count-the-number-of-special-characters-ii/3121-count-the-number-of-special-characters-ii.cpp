@@ -3,7 +3,8 @@ public:
     int numberOfSpecialChars(string s) {
         int ans=0;
         unordered_map<char,int>mpp2;
-        unordered_set<char>st;
+        vector<int>temp(26);
+        vector<int>temp1(26);
         for(int i=0;i<s.length();i++)
         {
             if(islower(s[i]))
@@ -11,34 +12,28 @@ public:
                 mpp2[s[i]]=i;
             }
         }
-        unordered_set<char>st1;
         for(int i=0;i<s.length();i++)
         {
             if(isupper(s[i]))
             {
-                if(mpp2.contains(tolower(s[i])))
+                char ch=tolower(s[i]);
+                if(mpp2.contains(ch))
                 {
-                    char ch=tolower(s[i]);
-                    if(mpp2[tolower(s[i])]<i)
+                    if(mpp2[ch]<i&&temp[ch-'a']==0)
                     {
-                        st.insert(ch);
+                        temp1[ch-'a']++;
                     }
-                    else if(mpp2[tolower(s[i])]>i)
+                    else if(mpp2[ch]>i)
                     {
-                        st1.insert(ch);
+                        temp[ch-'a']++;
                     }
                 }
             }
         }
-        ans=st.size();
-        for(auto it:st1)
+        for(int i:temp1)
         {
-            if(st.contains(it))
-            {
-                ans--;
-            }
+            if(i!=0) ans++;
         }
-        if(ans>0) return ans;
-        else return 0;
+        return ans;
     }
 };
