@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
+| [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
