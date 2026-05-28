@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0036-valid-sudoku](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0056-merge-intervals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0242-valid-anagram](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
