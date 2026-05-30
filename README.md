@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Bit Manipulation
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
