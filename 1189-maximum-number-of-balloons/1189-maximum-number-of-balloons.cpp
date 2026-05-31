@@ -11,8 +11,6 @@ public:
         for(auto it:mpp)
         {
             num=min(num,it.second);
-            if(mpp['l']<2) return 0;
-            else if(mpp['o']<2) return 0;
         }
         if(mpp['l']>=2*num&&mpp['o']>=2*num) return num;
         return min(mpp['l']/2,mpp['o']/2);
