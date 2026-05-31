@@ -4,7 +4,7 @@ public:
         int ans=0;
         unordered_map<int,int>mpp;
         for(int i:nums) mpp[i]++;
-        for(auto it:mpp) cout<<it.first<<" "<<it.second<<endl;
+        // for(auto it:mpp) cout<<it.first<<" "<<it.second<<endl;
         for(auto it:mpp)
         {
             if(it.second==1) return -1;
