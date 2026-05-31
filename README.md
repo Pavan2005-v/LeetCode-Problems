@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Enumeration
