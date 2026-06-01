@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Simulation
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
