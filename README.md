@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0859-buddy-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0859-buddy-strings/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
