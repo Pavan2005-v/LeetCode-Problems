@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [0859-buddy-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0859-buddy-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
