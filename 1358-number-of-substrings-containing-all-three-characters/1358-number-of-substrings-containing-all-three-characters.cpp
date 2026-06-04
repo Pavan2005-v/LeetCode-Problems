@@ -6,13 +6,10 @@ public:
         int ans=0;
         while(r<s.length())
         {
-            mpp[s[r]]++;
-            while(mpp.size()==3)
+            mpp[s[r]]=r;
+            if(mpp.size()==3)
             {
-                ans+=(s.length()-r);
-                mpp[s[l]]--;
-                if(mpp[s[l]]==0) mpp.erase(s[l]);
-                l++;
+                ans+=(min({mpp['a'],mpp['b'],mpp['c']})+1);
             }
             r++;
         }
