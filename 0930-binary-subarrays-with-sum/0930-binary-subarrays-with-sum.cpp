@@ -6,13 +6,13 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             sum+=nums[i];
-            if(sum==goal) ans++;
+            if(sum==goal)  ans++;
             if(mpp.contains(sum-goal))
             {
                 ans+=mpp[sum-goal];
             }
             mpp[sum]++;
-        }  
+        }
         return ans;
     }
 };
