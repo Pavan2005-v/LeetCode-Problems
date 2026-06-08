@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2451-odd-string-difference](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2451-odd-string-difference/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
