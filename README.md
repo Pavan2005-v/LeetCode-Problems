@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
