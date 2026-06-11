@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [0859-buddy-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0859-buddy-strings/) | Easy |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0443-string-compression](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
