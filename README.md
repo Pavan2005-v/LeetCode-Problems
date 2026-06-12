@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
