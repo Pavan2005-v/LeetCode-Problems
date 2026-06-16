@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -332,12 +333,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
