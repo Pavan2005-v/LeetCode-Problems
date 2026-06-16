@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Bit Manipulation
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
