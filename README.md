@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
