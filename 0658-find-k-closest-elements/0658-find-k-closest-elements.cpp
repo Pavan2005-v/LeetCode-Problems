@@ -1,15 +1,20 @@
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& nums, int k, int x) {
-        sort(nums.begin(),nums.end(),[&](int &a,int &b){
-            if(abs(a-x)==abs(b-x))
+        int l=0,r=nums.size()-1;
+        while((r-l)>=k)
+        {
+            if(abs(nums[l]-x)>abs(nums[r]-x))
             {
-                return a<b;
+                l++;
             }
-            return abs(a-x)<abs(b-x);
-        });
-        nums.resize(k);
-        sort(nums.begin(),nums.end());
-        return nums;
+            else
+            {
+                r--;
+            }
+        }
+        vector<int>ans;
+        for(int i=l;i<=r;i++) ans.push_back(nums[i]);
+        return ans;
     }
 };
