@@ -1,7 +1,10 @@
 class Solution {
 public:
     string findLongestWord(string s, vector<string>& dictionary) {
-        vector<string>ans;
+        sort(dictionary.begin(),dictionary.end(),[&](string &a,string &b){
+            if(a.length()==b.length()) return a<b;
+            return a.length()>b.length();
+        });
         for(int i=0;i<dictionary.size();i++)
         {
             string temp=dictionary[i];
@@ -20,14 +23,9 @@ public:
             }
             if(l==temp.length())
             {
-                ans.push_back(temp);
+                return temp;
             }
         }
-        sort(ans.begin(),ans.end(),[&](string &a,string &b){
-            if(a.length()==b.length()) return a<b;
-            return a.length()>b.length();
-        });
-        if(ans.size()==0) return "";
-        return ans[0];
+       return "";
     }
 };
