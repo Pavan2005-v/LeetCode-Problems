@@ -58,7 +58,7 @@ public:
                     cap1-=plants[l];
                     l++;
                 }
-                else if(plants[l]>cap1)
+                else 
                 {
                     ans++;
                     cap1=capacityA-plants[l];
@@ -69,7 +69,7 @@ public:
                     cap2-=plants[r];
                     r--;
                 }
-                else if(plants[r]>cap2)
+                else 
                 {
                     ans++;
                     cap2=capacityB-plants[r];
