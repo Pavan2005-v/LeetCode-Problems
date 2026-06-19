@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0481-magical-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0567-permutation-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [0859-buddy-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0859-buddy-strings/) | Easy |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0859-buddy-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0859-buddy-strings/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0481-magical-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0567-permutation-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
