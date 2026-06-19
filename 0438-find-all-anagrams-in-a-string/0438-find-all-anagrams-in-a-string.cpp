@@ -1,21 +1,23 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        vector<int>temp(26);
+        if(s.length()<p.length()) return {};
         vector<int>a;
-        for(char c:p) temp[c-'a']++;
-        for(int i=0;i<s.length();i++)
+        vector<int>vec1(26);
+        vector<int>vec2(26);
+        for(char c:p) vec2[c-'a']++;
+        for(int i=0;i<p.length();i++) vec1[s[i]-'a']++;
+        int l=0,r=p.length()-1;
+        if(vec1==vec2) a.push_back(0);
+        while(r<s.length())
         {
-            if(p.contains(s[i]))
+            vec1[s[l]-'a']--;
+            l++;
+            r++;
+            if(r<s.length()) vec1[s[r]-'a']++;
+            if(vec1==vec2)
             {
-                vector<int>t(26);
-                for(int j=i;j<i+p.length();j++)
-                {
-                    if(j>=s.length()) break;
-                    if(t[s[j]-'a']>temp[s[j]-'a']) break;
-                    t[s[j]-'a']++;
-                }
-                if(t==temp) a.push_back(i);
+                a.push_back(l);
             }
         }
         return a;
