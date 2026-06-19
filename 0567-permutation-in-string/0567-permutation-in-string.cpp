@@ -1,30 +1,26 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        vector<int>freq(26);
-        for(char c:s1) freq[c-'a']++;
-        int wind_size=s1.length();
-        for(int i=0;i<s2.length();i++)
+        if(s1.length()>s2.length()) return false;
+        vector<int>temp(26);
+        for(char c:s1) 
         {
-            vector<int>freq1(26);
-            int idx=i; 
-            int win=0;
-            while(win<wind_size&&idx<s2.length())
-            {
-                freq1[s2[idx]-'a']++;
-                idx++;
-                win++;
-            }
-            int k=0;
-            for(int j=0;j<freq1.size();j++)
-            {
-                if(freq[j]!=freq1[j])
-                {
-                    k=1;
-                    break;
-                }
-            }
-            if(!k) return true;
+            temp[c-'a']++;
+        }
+        vector<int>t(26);
+        for(int i=0;i<s1.length();i++)
+        {
+            t[s2[i]-'a']++;
+        }
+        if(t==temp) return true;
+        int l=0,r=s1.length()-1;
+        while(r<s2.length())
+        {
+            t[s2[l]-'a']--;
+            l++;
+            r++;
+            if(r<s2.length()) t[s2[r]-'a']++;
+            if(t==temp) return true;
         }
         return false;
     }
