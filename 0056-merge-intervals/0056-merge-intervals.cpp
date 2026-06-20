@@ -2,28 +2,20 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         sort(intervals.begin(),intervals.end());
-        vector<vector<int>>ans;
-        int temp=intervals[0][1];
+        for(int i=0;i<intervals.size();i++) cout<<intervals[i][0]<<" "<<intervals[i][1]<<endl;
+        int num=intervals[0][1];
         int ind=0;
+        vector<vector<int>>ans;
         for(int i=1;i<intervals.size();i++)
         {
-            if(intervals[i][0]>temp)
+            if(intervals[i][0]>num)
             {
-                ans.push_back({intervals[ind][0],temp});
+                ans.push_back({intervals[ind][0],num});
                 ind=i;
-                temp=intervals[i][1];
             }
-            temp=max(temp,intervals[i][1]);
+            num=max(num,intervals[i][1]);
         }
-        int n=intervals.size()-1;
-        if(ind!=n)
-        {
-            ans.push_back({intervals[ind][0],temp});
-        }
-        else
-        {
-            ans.push_back({intervals[n][0],temp});
-        }
+        ans.push_back({intervals[ind][0],num});
         return ans;
     }
 };
