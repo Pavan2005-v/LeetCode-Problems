@@ -1,29 +1,26 @@
 class Solution {
 public:
     vector<int> diStringMatch(string s) {
-        int c=0;
-        vector<int>ans(s.length()+1);
+        int num=0,n=s.length();
+        vector<int>ans(n+1);
         for(int i=0;i<s.length();i++)
         {
             if(s[i]=='I')
             {
-                ans[i]=c;
-                c++;
+                ans[i]=num;
+                num++;
             }
         }
-        c=s.length();
-        for(int i=0;i<s.length();i++)
+        ans[n]=num;
+        num++;
+        for(int i=n-1;i>=0;i--)
         {
             if(s[i]=='D')
             {
-                ans[i]=c;
-                c--;
+                ans[i]=num;
+                num++;
             }
         }
-        int sum=(s.length()*(s.length()+1))/2;
-        int temp=0;
-        for(int i:ans) temp+=i;
-        ans[ans.size()-1]=sum-temp;
         return ans;
     }
 };
