@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0567-permutation-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [0859-buddy-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0859-buddy-strings/) | Easy |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0409-longest-palindrome/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0567-permutation-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
