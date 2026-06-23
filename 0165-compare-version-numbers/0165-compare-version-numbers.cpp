@@ -1,57 +1,49 @@
 class Solution {
 public:
-    int compareVersion(string version1, string version2) {
-        vector<long long>v1;
-        long long num=0,ind=0;
-        while(ind<version1.length())
+    int compareVersion(string v1, string v2) {
+        long long num1=0,num2=0;
+        int l=0,r=0;
+        while(l<v1.length()&&r<v2.length())
         {
-            if(version1[ind]!='.')
+            while(l<v1.length()&&v1[l]!='.')
             {
-                num=num*10+(version1[ind]-'0');
+                num1=num1*10+(v1[l]-'0');
+                l++;
             }
-            else
+            while(r<v2.length()&&v2[r]!='.')
             {
-                v1.push_back(num);
-                num=0;
+                num2=num2*10+(v2[r]-'0');
+                r++;
             }
-            ind++;
+            if(num1>num2) return 1;
+            else if(num1<num2) return -1;
+            num1=0; num2=0;
+            l++; r++;
         }
-        v1.push_back(num);
-        vector<long long>v2;
-        num=0,ind=0;
-        while(ind<version2.length())
+        while(l<v1.length())
         {
-            if(version2[ind]!='.')
+            if(v1[l]=='.')
             {
-                num=num*10+(version2[ind]-'0');
+                if(num1>0) return 1;
+                num1=0;
+                l++;
             }
-            else
+            num1=num1*10+(v1[l]-'0');
+            l++;
+        }
+        if(num1>0) return 1;
+        while(r<v2.length())
+        {
+            if(v2[r]=='.')
             {
-                v2.push_back(num);
-                num=0;
+                if(num2>0) return -1;
+                num2=0;
+                r++;
             }
-            ind++;
+            num2=num2*10+(v2[r]-'0');
+            r++;
         }
-        v2.push_back(num);
-        ind=0;
-        while(ind<v1.size()&&ind<v2.size())
-        {
-            if(v1[ind]>v2[ind]) return 1;
-            else if(v1[ind]<v2[ind]) return -1;
-            ind++;
-        }
-        int temp=ind;
-        while(ind<v1.size())
-        {
-            if(v1[ind]>0) return 1;
-            ind++;
-        }
-        while(temp<v2.size())
-        {
-            if(v2[temp]>0) return -1;
-            temp++;
-        }
-        if(temp==v2.size()) return 0;
+        if(num2>0) return -1;
         return 0;
     }
 };
