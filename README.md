@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
