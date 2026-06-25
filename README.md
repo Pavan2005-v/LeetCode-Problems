@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3206-alternating-groups-i/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Trie
