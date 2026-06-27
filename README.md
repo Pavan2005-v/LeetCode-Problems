@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2233-maximum-product-after-k-increments](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -479,5 +482,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
