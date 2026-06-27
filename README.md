@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0165-compare-version-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
