@@ -1,15 +1,15 @@
 class Solution {
 public:
-    int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
-        sort(arr.begin(),arr.end());
-        if(arr[0]!=1) arr[0]=1;
-        for(int i=1;i<arr.size();i++)
+    int maximumElementAfterDecrementingAndRearranging(vector<int>&nums) {
+        sort(nums.begin(),nums.end());
+        nums[0]=1;
+        for(int i=0;i<nums.size()-1;i++)
         {
-            if(abs(arr[i]-arr[i-1])>1)
+            if(abs(nums[i]-nums[i+1])>1)
             {
-                arr[i]=arr[i-1]+1;
+                nums[i+1]=nums[i]+1;
             }
         }
-        return arr[arr.size()-1];
+        return nums[nums.size()-1];
     }
 };
