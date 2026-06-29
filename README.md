@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1446-consecutive-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1446-consecutive-characters/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1754-largest-merge-of-two-strings/) | Medium |
