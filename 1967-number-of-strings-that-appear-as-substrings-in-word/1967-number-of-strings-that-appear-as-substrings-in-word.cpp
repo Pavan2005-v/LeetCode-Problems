@@ -1,11 +1,11 @@
 class Solution {
 public:
     int numOfStrings(vector<string>& patterns, string word) {
-        int count=0;
-        for(string s:patterns)
+        int ans=0;
+        for(int i=0;i<patterns.size();i++)
         {
-            if(word.contains(s)) count++;
+            if(word.contains(patterns[i])) ans++;
         }
-        return count;
+        return ans;
     }
 };
