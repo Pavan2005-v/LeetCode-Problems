@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1446-consecutive-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1446-consecutive-characters/) | Easy |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1754-largest-merge-of-two-strings/) | Medium |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
