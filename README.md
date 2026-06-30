@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2347-best-poker-hand](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2347-best-poker-hand/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
