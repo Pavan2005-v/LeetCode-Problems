@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2815-max-pair-sum-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3206-alternating-groups-i/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Trie
