@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3206-alternating-groups-i/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
