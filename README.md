@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0859-buddy-strings/) | Easy |
 | [0925-long-pressed-name](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
