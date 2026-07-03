@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0165-compare-version-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0165-compare-version-numbers/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0242-valid-anagram](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -535,4 +539,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
