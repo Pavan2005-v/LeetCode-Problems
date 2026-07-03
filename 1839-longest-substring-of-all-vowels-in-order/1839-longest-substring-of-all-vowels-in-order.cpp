@@ -1,62 +1,36 @@
 class Solution {
 public:
-    vector<int> isValid(string word,int ind)
-    {
-        while(ind<word.length()&&word[ind]=='a')
-        {
-            ind++;
-        }
-        if(ind<word.length()&&word[ind]=='e')
-        {
-            while(ind<word.length()&&word[ind]=='e')
-            {
-                ind++;
-            }
-        }
-        else return {ind,-1};
-        if(ind<word.length()&&word[ind]=='i')
-        {
-            while(ind<word.length()&&word[ind]=='i')
-            {
-                ind++;
-            }
-        }
-        else return {ind,-1};
-        if(ind<word.length()&&word[ind]=='o')
-        {
-            while(ind<word.length()&&word[ind]=='o')
-            {
-                ind++;
-            }
-        }
-        else return {ind,-1};
-        if(ind<word.length()&&word[ind]=='u')
-        {
-            while(ind<word.length()&&word[ind]=='u')
-            {
-                ind++;
-            }
-        }
-        else return {ind,-1};
-        return {ind,1};
-    }
     int longestBeautifulSubstring(string word) {
         int l=0,r=0,ans=0;
+        stack<char>st;
         while(l<word.length())
         {
             if(word[l]=='a')
             {
-                vector<int>temp=isValid(word,l);
-                if(temp[1]!=-1)
+                if(st.size()==0||st.top()==word[r]) st.push(word[r]);
+                else if(st.top()=='a'&&word[r]=='e') st.push(word[r]);
+                else if(st.top()=='e'&&word[r]=='i') st.push(word[r]);
+                else if(st.top()=='i'&&word[r]=='o') st.push(word[r]);
+                else if(st.top()=='o'&&word[r]=='u') st.push(word[r]);
+                else
                 {
-                    ans=max(ans,temp[0]-l);
+                    l=r;
+                    r--;
+                    if(st.top()=='u')
+                    {
+                        int size=st.size();
+                        ans=max(ans,size);
+                    }
+                    stack<char>st1;
+                    st=st1;   
                 }
-                l=temp[0];
+                r++;
             }
             else
             {
                 l++;
-            }
+                r++;
+            }  
         }
         return ans;
     }
