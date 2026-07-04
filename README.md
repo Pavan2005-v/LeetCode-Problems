@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
