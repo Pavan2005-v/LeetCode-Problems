@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2233-maximum-product-after-k-increments](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
