@@ -29,10 +29,10 @@ public:
         {
             mpp[nums2[i]].push_back(nums1[i]);
         }
-        for(auto it:mpp)
-        {
-            sort(it.second.rbegin(),it.second.rend());
-        }
+        // for(auto it:mpp)
+        // {
+        //     sort(it.second.rbegin(),it.second.rend());
+        // }
         vector<int>ans;
         for(int i=0;i<n;i++)
         {
