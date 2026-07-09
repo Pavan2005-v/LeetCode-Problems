@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3206-alternating-groups-i/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
