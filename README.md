@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0870-advantage-shuffle/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0870-advantage-shuffle/) | Medium |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0870-advantage-shuffle/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0870-advantage-shuffle/) | Medium |
 | [0925-long-pressed-name](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
