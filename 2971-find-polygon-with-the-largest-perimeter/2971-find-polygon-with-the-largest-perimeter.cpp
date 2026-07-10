@@ -2,16 +2,17 @@ class Solution {
 public:
     long long largestPerimeter(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        long long int ans=0;
-        long long int ans1=-1;
-        for(int i=0;i<nums.size()-1;i++)
+        vector<long long>pref;
+        int n=nums.size();
+        pref.push_back(nums[0]);
+        for(int i=1;i<n;i++)
         {
-            ans+=nums[i];
-            if(ans>nums[i+1]&&i>=1)
-            {
-                ans1=max(ans1,ans)+nums[i+1];
-            }
+            pref.push_back(nums[i]+pref[i-1]);
         }
-        return ans1;
+        for(int i=n-2;i>=0;i--)
+        {
+            if(pref[i]>nums[i+1]) return pref[i]+nums[i+1];
+        }
+        return -1;
     }
 };
