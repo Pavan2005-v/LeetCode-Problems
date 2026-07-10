@@ -19,7 +19,13 @@ public:
     }
     int func(int num)
     {
+        if(isPalindrome(num)) return 0;
         int temp1=num,temp2=num;
+        if(num%2==0)
+        {
+            temp1=num-1;
+            temp2=num+1;
+        }
         while(temp1>0&&temp2<=5000)
         {
             if(isPalindrome(temp1))
@@ -30,8 +36,8 @@ public:
             {
                 return temp2-num;
             }
-            temp1--;
-            temp2++;
+            temp1-=2;
+            temp2+=2;
         }
         int ans=INT_MAX;
         while(temp1>0)
@@ -40,7 +46,7 @@ public:
             {
                 ans=min(ans,num-temp1);
             }
-            temp1--;
+            temp1-=2;
         }
         while(temp2<=5000)
         {
@@ -48,7 +54,7 @@ public:
             {
                 ans=min(ans,temp2-num);
             }
-            temp2++;
+            temp2+=2;
         }
         return ans;
     }
