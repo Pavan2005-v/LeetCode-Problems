@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1754-largest-merge-of-two-strings/) | Medium |
