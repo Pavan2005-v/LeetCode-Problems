@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2815-max-pair-sum-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2815-max-pair-sum-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2347-best-poker-hand/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2233-maximum-product-after-k-increments](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 ## Dynamic Programming
