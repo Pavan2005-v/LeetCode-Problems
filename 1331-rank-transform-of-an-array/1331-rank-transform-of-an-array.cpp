@@ -1,26 +1,22 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        if(arr.size()==0) 
+        unordered_map<int,int>mpp;
+        int count=0;
+        vector<int>ans=arr;
+        sort(ans.begin(),ans.end());
+        for(int i=0;i<ans.size();i++)
         {
-            return arr;
+            if(!mpp.contains(ans[i]))
+            {
+                count++;
+            }
+            mpp[ans[i]]=count;
         }
-        vector<int> temp=arr;
-        sort(temp.begin(),temp.end());
-        unordered_map<int,int> mpp;
-        int r=1;
-        mpp[temp[0]]=r;
-        for(int i=1;i<temp.size();i++)
-        {
-            if(temp[i]!=temp[i-1]) r++;
-            mpp[temp[i]]=r;
-        }
-        vector<int> ans(arr.size());
         for(int i=0;i<arr.size();i++)
         {
-            ans[i]=mpp[arr[i]];
+            arr[i]=mpp[arr[i]];
         }
-        return ans;
+        return arr;
     }
 };
-auto init = atexit([]() { std::ofstream("display_runtime.txt") << "0"; });
