@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2451-odd-string-difference](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2451-odd-string-difference/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2105-watering-plants-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
