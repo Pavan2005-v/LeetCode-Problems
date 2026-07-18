@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2347-best-poker-hand](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2347-best-poker-hand/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2451-odd-string-difference](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2451-odd-string-difference/) | Easy |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2347-best-poker-hand](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2347-best-poker-hand/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2451-odd-string-difference](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2451-odd-string-difference/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1291-sequential-digits](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1291-sequential-digits/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2105-watering-plants-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
