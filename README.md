@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 ## Dynamic Programming
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -620,9 +624,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 <!---LeetCode Topics End-->
