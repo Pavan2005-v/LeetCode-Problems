@@ -2,26 +2,21 @@ class Solution {
 public:
     bool isPalindrome(string s) {
         string temp="";
-        for(char &c:s)
+        for(int i=0;i<s.length();i++)
         {
-            if(isalpha(c)||isdigit(c))
+            if(isalpha(s[i])||isdigit(s[i]))
             {
-                if(isupper(c))
-                {
-                    c=tolower(c);
-                    temp+=c;
-                }
-                else temp+=c;
+                temp+=(tolower(s[i]));
             }
         }
-        int i=0;
-        int j=temp.size()-1;
-        cout<<temp;
-        while(i<j)
+        int l=0,r=temp.length()-1;
+        while(l<r)
         {
-            if(temp[i]!=temp[j]) return false;
-            i++;
-            j--;
+            if(temp[l]!=temp[r]) return false;
+            else
+            {
+                l++; r--;
+            }
         }
         return true;
     }
