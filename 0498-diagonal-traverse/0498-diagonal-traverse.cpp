@@ -1,8 +1,7 @@
 class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
-        vector<int>ans;
-        map<int,vector<int>>mpp;
+        unordered_map<int,vector<int>>mpp;
         for(int i=0;i<mat.size();i++)
         {
             for(int j=0;j<mat[i].size();j++)
@@ -10,19 +9,23 @@ public:
                 mpp[i+j].push_back(mat[i][j]);
             }
         }
-        for(auto it:mpp)
+        vector<int>ans;
+        int size=mpp.size();
+        for(int i=0;i<size;i++)
         {
-            if(it.first%2!=0)
+            if(i&1)
             {
-                for(int i:it.second)
+                for(int j=0;j<mpp[i].size();j++)
                 {
-                    ans.push_back(i);
+                    ans.push_back(mpp[i][j]);
                 }
             }
             else
             {
-                int size=it.second.size();
-                for(int i=size-1;i>=0;i--) ans.push_back(it.second[i]);
+                for(int j=mpp[i].size()-1;j>=0;j--)
+                {
+                    ans.push_back(mpp[i][j]);
+                }
             }
         }
         return ans;
