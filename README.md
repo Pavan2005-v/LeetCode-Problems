@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3206-alternating-groups-i/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
