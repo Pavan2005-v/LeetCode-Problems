@@ -1,46 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> matrixBlockSum(vector<vector<int>>& mat, int k) {
-        vector<vector<int>>temp,ans;
-        for(int i=0;i<mat.size();i++)
+        int n=mat.size(),m=mat[0].size();
+        vector<vector<int>>pref(n+1,vector<int>(m+1)),ans(n,vector<int>(m));
+        for(int i=1;i<n+1;i++)
         {
-            int sum=0;
-            vector<int>prefrow;
-            for(int j=0;j<mat[i].size();j++)
+            vector<int>temp(m+1);
+            for(int j=1;j<m+1;j++)
             {
-                sum+=mat[i][j];
-                prefrow.push_back(sum);
+                temp[j]=temp[j-1]+mat[i-1][j-1]+pref[i-1][j]+pref[i][j-1]-pref[i-1][j-1];
             }
-            temp.push_back(prefrow);
+            pref[i]=temp;
         }
-        for(int i=0;i<mat.size();i++)
+        for(int i=0;i<n;i++)
         {
-            vector<int>rowsum;
-            for(int j=0;j<mat[i].size();j++)
+            for(int j=0;j<m;j++)
             {
-                int r1=i-k;
-                int r2=i+k;
-                int c1=j-k;
-                int c2=j+k;
-                if(r1<0) r1=0;
-                if(r2>=mat.size()) r2=mat.size()-1;
-                if(c1<0) c1=0;
-                if(c2>=mat[0].size()) c2=mat[0].size()-1;
-                int sum=0;
-                for(int l=r1;l<=r2;l++)
-                {
-                    if(c1==0)
-                    {
-                        sum+=(temp[l][c2]);
-                    }
-                    else
-                    {
-                        sum+=(temp[l][c2]-temp[l][c1-1]);
-                    }
-                }
-                rowsum.push_back(sum);
+                int r1=max(0,i-k);
+                int r2=min(n-1,i+k);
+                int c1=max(0,j-k);
+                int c2=min(m-1,j+k);
+                ans[i][j]=pref[r2+1][c2+1]-pref[r1][c2+1]-pref[r2+1][c1]+pref[r1][c1];
             }
-            ans.push_back(rowsum);
         }
         return ans;
     }
