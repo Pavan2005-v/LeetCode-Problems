@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1314-matrix-block-sum/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
