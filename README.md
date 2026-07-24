@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2451-odd-string-difference/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
