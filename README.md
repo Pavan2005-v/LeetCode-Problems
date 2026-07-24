@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
