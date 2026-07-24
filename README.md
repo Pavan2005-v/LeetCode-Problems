@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0870-advantage-shuffle](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0870-advantage-shuffle/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
