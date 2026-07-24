@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1314-matrix-block-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Divide and Conquer
