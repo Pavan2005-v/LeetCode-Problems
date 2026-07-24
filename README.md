@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1314-matrix-block-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
