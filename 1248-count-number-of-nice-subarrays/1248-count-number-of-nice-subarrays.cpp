@@ -2,9 +2,8 @@ class Solution {
 public:
     int func(vector<int>nums,int k)
     {
-        if(k<0) return 0;
-        int count=0,l=0,r=0,ans=0;
-        while(r<nums.size())
+        int n=nums.size(),l=0,r=0,ans=0,count=0;
+        while(r<n)
         {
             if(nums[r]&1) count++;
             while(count>k)
