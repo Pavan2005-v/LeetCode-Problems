@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Backtracking
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
