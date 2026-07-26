@@ -1,22 +1,26 @@
 class Solution {
 public:
     int maximumBeauty(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
-        int i=0,j=0,ans=0,count=0;
-        while(i<nums.size()&&j<nums.size())
+        vector<pair<int,int>>temp;
+        for(int i=0;i<nums.size();i++)
         {
-            if(nums[i]-k<=nums[j]+k)
+            temp.push_back({nums[i]-k,nums[i]+k});
+        }
+        sort(temp.begin(),temp.end());
+        int ans=0,l=0,r=0;
+        for(auto it:temp) cout<<it.first<<" "<<it.second<<endl;
+        while(l<temp.size()&&r<temp.size())
+        {
+            if(temp[l].first<=temp[r].second)
             {
-                i++;
-                ans++;
-                count=max(count,ans);
+                ans=max(ans,l-r+1);
+                l++;
             }
             else
             {
-                j++;
-                ans--;
+                r++;
             }
         }
-        return count;
+        return ans;
     }
 };
