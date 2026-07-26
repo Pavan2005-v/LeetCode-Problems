@@ -8,7 +8,6 @@ public:
         }
         sort(temp.begin(),temp.end());
         int ans=0,l=0,r=0;
-        for(auto it:temp) cout<<it.first<<" "<<it.second<<endl;
         while(l<temp.size()&&r<temp.size())
         {
             if(temp[l].first<=temp[r].second)
