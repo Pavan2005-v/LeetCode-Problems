@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
