@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2347-best-poker-hand/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2381-shifting-letters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2381-shifting-letters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2451-odd-string-difference](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2451-odd-string-difference/) | Easy |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2381-shifting-letters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
