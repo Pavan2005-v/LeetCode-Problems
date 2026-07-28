@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1854-maximum-population-year](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [1854-maximum-population-year](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
+| [1854-maximum-population-year](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2381-shifting-letters-ii/) | Medium |
