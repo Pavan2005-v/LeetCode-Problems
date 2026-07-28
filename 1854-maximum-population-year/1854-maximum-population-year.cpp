@@ -2,32 +2,23 @@ class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
         int n=logs.size();
-        map<int,int>mpp;
-        set<int>st;
+        vector<pair<int,int>>pr;
         for(int i=0;i<n;i++)
         {
-            mpp[logs[i][0]]+=1;
-            mpp[logs[i][1]]-=1;
-            st.insert(logs[i][0]);
-            st.insert(logs[i][1]);
+            pr.push_back({logs[i][0],1});
+            pr.push_back({logs[i][1],-1});
         }
-        vector<int>temp;
-        for(auto it:mpp) temp.push_back(it.second);
-        int maxi=INT_MIN,ind;
-        for(int i=1;i<temp.size();i++)
+        sort(pr.begin(),pr.end());
+        int ans=pr[0].second,temp=pr[0].second,yr=pr[0].first;
+        for(int i=1;i<pr.size();i++)
         {
-            temp[i]+=temp[i-1];
-        }
-        for(int i=0;i<temp.size();i++)
-        {
-            if(temp[i]>maxi)
+            ans+=pr[i].second;
+            if(ans>temp)
             {
-                maxi=temp[i];
-                ind=i;
+                temp=ans;
+                yr=pr[i].first;
             }
         }
-        vector<int>yr;
-        for(int i:st) yr.push_back(i);
-        return yr[ind];
+        return yr;
     }
 };
