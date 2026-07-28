@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2874-maximum-value-of-an-ordered-triplet-ii/) | Medium |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
