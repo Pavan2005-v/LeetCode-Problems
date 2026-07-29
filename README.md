@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2536-increment-submatrices-by-one](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2536-increment-submatrices-by-one](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2536-increment-submatrices-by-one](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
