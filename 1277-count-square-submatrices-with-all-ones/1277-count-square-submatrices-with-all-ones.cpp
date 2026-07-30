@@ -20,6 +20,7 @@ public:
                     int expSum=(i1-i+1)*(j1-j+1);
                     int actSum=pref[i1+1][j1+1]-pref[i1+1][ind2]-pref[ind1][j1+1]+pref[ind1][ind2];
                     if(expSum==actSum) ans++;
+                    else break;
                     i1++;
                     j1++;
                 }
