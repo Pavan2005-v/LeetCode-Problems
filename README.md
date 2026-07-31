@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
