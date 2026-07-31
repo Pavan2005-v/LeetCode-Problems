@@ -1,44 +1,43 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        unordered_map<char,int>mpp;
-        for(char c:word) mpp[c]++;
-        if(mpp.size()<=8)
+        vector<int>temp(26);
+        for(char c:word)
         {
-            return word.length();
+            temp[c-'a']++;
         }
-        else
+        vector<pair<char,int>>pr;
+        for(int i=0;i<26;i++)
         {
-            vector<pair<int,char>>p;
-            for(auto it:mpp) p.push_back({it.second,it.first});
-            sort(p.rbegin(),p.rend());
-            unordered_map<int,vector<int>>mp;
-            int count=1;
-            for(int i=0;i<p.size();i++)
+            if(temp[i]!=0)
             {
-                if(count<=8)
-                {
-                    mp[count].push_back(p[i].first);
-                    count++;
-                }
-                else if(count>8)
-                {
-                    count=1;
-                    mp[count].push_back(p[i].first);
-                    count++;
-                }
+                pr.push_back({i+'a',temp[i]});
             }
-            int ans=0;
-            for(auto it:mp)
-            {
-                vector<int>temp=it.second;
-                for(int i=0;i<temp.size();i++)
-                {
-                    ans+=(temp[i]*(i+1));
-                }
-            }
-            return ans;
         }
-        
+        sort(pr.begin(),pr.end(),[&](pair<char,int>&a,pair<char,int>&b){
+            return a.second>b.second;
+        });
+        vector<int>temp1(26);
+        int count=0;
+        int assign=1;
+        for(int i=0;i<pr.size();i++)
+        {
+            if(temp1[pr[i].first-'a']==0)
+            {
+                temp1[pr[i].first-'a']=assign;
+                count++;
+            }
+            if(count==8)
+            {
+                assign++;
+                count=0;
+            }
+        }
+        int ans=0;
+        for(char c:word)
+        {
+            ans+=temp1[c-'a'];
+        }
+        return ans;
     }
 };
