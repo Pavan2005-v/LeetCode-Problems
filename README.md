@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2105-watering-plants-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
