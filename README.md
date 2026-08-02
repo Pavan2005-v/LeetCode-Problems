@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [1895-largest-magic-square](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1895-largest-magic-square/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [1895-largest-magic-square](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1895-largest-magic-square/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2536-increment-submatrices-by-one](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2536-increment-submatrices-by-one/) | Medium |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1854-maximum-population-year](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [1895-largest-magic-square](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1895-largest-magic-square/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2381-shifting-letters-ii/) | Medium |
