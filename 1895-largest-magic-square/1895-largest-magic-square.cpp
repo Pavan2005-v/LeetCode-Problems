@@ -3,6 +3,23 @@ public:
     int largestMagicSquare(vector<vector<int>>& grid) {
         int ans=1;
         int n=grid.size(),m=grid[0].size();
+        vector<vector<int>>rowSum(n,vector<int>(m)),colSum(n,vector<int>(m));
+        for(int i=0;i<n;i++)
+        {
+            rowSum[i][0]=grid[i][0];
+            for(int j=1;j<m;j++)
+            {
+                rowSum[i][j]=grid[i][j]+rowSum[i][j-1];
+            }
+        }
+        for(int i=0;i<m;i++)
+        {
+            colSum[0][i]=grid[0][i];
+            for(int j=1;j<n;j++)
+            {
+                colSum[j][i]=grid[j][i]+colSum[j-1][i];
+            }
+        }
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
@@ -13,19 +30,27 @@ public:
                     unordered_set<int>st;
                     for(int k=i;k<=ind1;k++)
                     {
-                        int sum=0;
-                        for(int l=j;l<=ind2;l++)
+                        int sum;
+                        if(j==0)
                         {
-                            sum+=grid[k][l];
+                            sum=rowSum[k][ind2];
+                        }
+                        else
+                        {
+                            sum=rowSum[k][ind2]-rowSum[k][j-1];
                         }
                         st.insert(sum);
                     }
                     for(int k=j;k<=ind2;k++)
                     {
-                        int sum=0;
-                        for(int l=i;l<=ind1;l++)
+                        int sum;
+                        if(i==0)
                         {
-                            sum+=grid[l][k];
+                            sum=colSum[ind1][k];
+                        }
+                        else
+                        {
+                            sum=colSum[ind1][k]-colSum[i-1][k];
                         }
                         st.insert(sum);
                     }
