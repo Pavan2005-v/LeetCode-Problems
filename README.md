@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0870-advantage-shuffle](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0870-advantage-shuffle/) | Medium |
+| [0877-stone-game](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0877-stone-game](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0877-stone-game](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -741,4 +744,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
