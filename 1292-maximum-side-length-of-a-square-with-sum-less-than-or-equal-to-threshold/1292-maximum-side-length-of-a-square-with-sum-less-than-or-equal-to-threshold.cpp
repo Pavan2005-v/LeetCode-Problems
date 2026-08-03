@@ -10,11 +10,11 @@ public:
                 pref[i][j]=mat[i-1][j-1]+pref[i-1][j]+pref[i][j-1]-pref[i-1][j-1];
             }
         }
-        // int l=1,r=min(n,m),ans=0;
-        for(int size=min(n,m);size>=0;size--)
+        int l=1,r=min(n,m),ans=0;
+        while(l<=r)
         {
-            // int size=(l+r)/2;
-            // bool a=false;
+            int size=(l+r)/2;
+            bool a=false;
             for(int i=0;i<n-size+1;i++)
             {
                 for(int j=0;j<m-size+1;j++)
@@ -23,21 +23,22 @@ public:
                     int sum=pref[ind1+1][ind2+1]-pref[ind1+1][j]-pref[i][ind2+1]+pref[i][j];
                     if(sum<=threshold)
                     {
-                        return size;
+                        a=true;
+                        break;
                     }
                 }
-                // if(a) break;
+                if(a) break;
             }
-            // if(a)
-            // {
-            //     ans=size;
-            //     l=size+1;
-            // }
-            // else
-            // {
-            //     r=size-1;
-            // }
+            if(a)
+            {
+                ans=size;
+                l=size+1;
+            }
+            else
+            {
+                r=size-1;
+            }
         }
-        return 0;
+        return ans;
     }
 };
