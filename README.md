@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2874-maximum-value-of-an-ordered-triplet-ii/) | Medium |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
