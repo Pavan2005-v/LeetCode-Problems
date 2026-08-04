@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3206-alternating-groups-i/) | Easy |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
