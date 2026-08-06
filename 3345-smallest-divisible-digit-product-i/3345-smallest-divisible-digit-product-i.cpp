@@ -10,7 +10,6 @@ public:
                 pro*=(num%10);
                 num/=10;
             }
-            cout<<pro<<endl;
             if(pro%t==0) return i;
         }
         return -1;
