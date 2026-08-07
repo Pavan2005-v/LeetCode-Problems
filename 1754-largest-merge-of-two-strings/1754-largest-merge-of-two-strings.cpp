@@ -3,28 +3,31 @@ public:
     string largestMerge(string word1, string word2) {
         string ans="";
         int l=0,r=0;
-        while(l<word1.length()&&r<word2.length())
+        int size1=word1.length(),size2=word2.length();
+        while(l<size1&&r<size2)
         {
-            if(word1.substr(l)>word2.substr(r))
+            if(word1>word2)
             {
-                ans+=word1[l];
+                ans+=word1[0];
+                word1.erase(0,1);
                 l++;
             }
             else
             {
-                ans+=word2[r];
+                ans+=word2[0];
+                word2.erase(0,1);
                 r++;
             }
         }
-        while(l<word1.length())
+        while(word1.length()!=0)
         {
-            ans+=word1[l];
-            l++;
+            ans+=word1[0];
+            word1.erase(0,1);
         }
-        while(r<word2.length())
+        while(word2.length()!=0)
         {
-            ans+=word2[r];
-            r++;
+            ans+=word2[0];
+            word2.erase(0,1);
         }
         return ans;
     }
