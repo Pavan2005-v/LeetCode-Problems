@@ -1,13 +1,11 @@
 class Solution {
 public:
     string largestMerge(string word1, string word2) {
-        int l=0,r=0;
         string ans="";
-        while(l<word1.length()||r<word2.length())
+        int l=0,r=0;
+        while(l<word1.length()&&r<word2.length())
         {
-            string temp1=word1.substr(l);
-            string temp2=word2.substr(r);
-            if(temp1>temp2)
+            if(word1.substr(l)>word2.substr(r))
             {
                 ans+=word1[l];
                 l++;
@@ -17,6 +15,16 @@ public:
                 ans+=word2[r];
                 r++;
             }
+        }
+        while(l<word1.length())
+        {
+            ans+=word1[l];
+            l++;
+        }
+        while(r<word2.length())
+        {
+            ans+=word2[r];
+            r++;
         }
         return ans;
     }
