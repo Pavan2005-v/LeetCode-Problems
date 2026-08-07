@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3361-shift-distance-between-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3361-shift-distance-between-two-strings/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
+| [3361-shift-distance-between-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3361-shift-distance-between-two-strings/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3361-shift-distance-between-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3361-shift-distance-between-two-strings/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Simulation
