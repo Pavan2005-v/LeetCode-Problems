@@ -20,6 +20,7 @@ public:
                 {
                     ans++;
                 }
+                else if(count>k) break;
             }
         }
         return ans;
