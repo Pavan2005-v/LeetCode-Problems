@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3361-shift-distance-between-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3361-shift-distance-between-two-strings/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
