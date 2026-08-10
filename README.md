@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0056-merge-intervals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
