@@ -1,47 +1,54 @@
 class Solution {
 public:
     vector<int> executeInstructions(int n, vector<int>& startPos, string s) {
-        int l=n-1;
+        int size=s.length();
         vector<int>ans;
-        for(int i=0;i<s.length();i++)
+        for(int i=0;i<size;i++)
         {
-                int f=startPos[0];
-                int s1=startPos[1];
-                int count=0;
-            for(int j=i;j<s.length();j++)
+            int l=startPos[1],r=startPos[0],count=0;
+            for(int j=i;j<size;j++)
             {
                 if(s[j]=='R')
                 {
-                    if(s1<l)
+                    if(l+1<n)
                     {
-                        s1++;
+                        l++;
                         count++;
                     }
-                    else break;
+                    else 
+                    {
+                        break;
+                    }
                 }
                 else if(s[j]=='L')
                 {
-                    if(s1>0)
+                    if(l-1>=0)
                     {
-                        s1--;
+                        l--;
                         count++;
                     }
-                    else break;
-                }
-                else if(s[j]=='U')
-                {
-                    if(f>0)
+                    else
                     {
-                        f--;
-                        count++;
+                        break;
                     }
-                    else break;
                 }
                 else if(s[j]=='D')
                 {
-                    if(f<l)
+                    if(r+1<n)
                     {
-                        f++;
+                        r++;
+                        count++;
+                    }
+                    else 
+                    {
+                        break;
+                    }
+                }
+                else 
+                {
+                    if(r-1>=0)
+                    {
+                        r--;
                         count++;
                     }
                     else break;
