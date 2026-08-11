@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
