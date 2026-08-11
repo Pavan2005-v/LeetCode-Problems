@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0190-reverse-bits](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Counting Sort
