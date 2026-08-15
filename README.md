@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
