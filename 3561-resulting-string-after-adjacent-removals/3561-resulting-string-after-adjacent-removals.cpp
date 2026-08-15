@@ -18,7 +18,11 @@ public:
             ans+=(st.top());
             st.pop();
         }
-        reverse(ans.begin(),ans.end());
+        int size=ans.length();
+        for(int i=0;i<ans.length()/2;i++)
+        {
+            swap(ans[i],ans[size-i-1]);
+        }
         return ans;
     }
 };
