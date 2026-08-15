@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0859-buddy-strings/) | Easy |
 | [0925-long-pressed-name](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0942-di-string-match/) | Easy |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
