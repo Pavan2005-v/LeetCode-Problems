@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3561-resulting-string-after-adjacent-removals/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3606-coupon-code-validator/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3692-majority-frequency-characters](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3692-majority-frequency-characters/) | Easy |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3561-resulting-string-after-adjacent-removals/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3561-resulting-string-after-adjacent-removals/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
