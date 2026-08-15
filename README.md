@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3046-split-the-array/) | Easy |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
