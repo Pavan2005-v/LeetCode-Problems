@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2536-increment-submatrices-by-one](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2536-increment-submatrices-by-one/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2661-first-completely-painted-row-or-column](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
+| [2614-prime-in-diagonal](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
