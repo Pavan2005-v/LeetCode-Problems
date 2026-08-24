@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1720-decode-xored-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1720-decode-xored-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1720-decode-xored-array/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
