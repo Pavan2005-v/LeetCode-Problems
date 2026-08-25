@@ -1,17 +1,30 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        set<int>st;
-        for(int i:nums)
+        int n=nums.size(),maxi=0;
+        vector<bool>temp;
+        for(int i=0;i<n;i++)
         {
-            if(i%k==0) st.insert(i);
+            if(nums[i]%k==0)
+            {
+                maxi=max(maxi,nums[i]);
+            }
         }
-        int num=1;
-        while(1)
+        temp.resize(maxi);
+        for(int i=0;i<n;i++)
         {
-            if(!st.contains(num*k)) return num*k;
-            num++;
+            if(nums[i]%k==0)
+            {
+                temp[nums[i]-1]=true;
+            }
         }
-        return 0;
+        for(int i=k-1;i<maxi;i+=k)
+        {
+            if(temp[i]==false)
+            {
+                return i+1;
+            }
+        }
+        return maxi+=k;
     }
 };
