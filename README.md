@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
