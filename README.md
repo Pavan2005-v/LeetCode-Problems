@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3917-count-indices-with-opposite-parity](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
