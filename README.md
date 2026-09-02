@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
+| [3834-merge-adjacent-equal-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 ## Matrix
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3561-resulting-string-after-adjacent-removals/) | Medium |
+| [3834-merge-adjacent-equal-elements](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
