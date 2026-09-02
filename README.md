@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3561-resulting-string-after-adjacent-removals/) | Medium |
