@@ -25,19 +25,18 @@ public:
                 }
             }
         }
-        unordered_set<int>stt;
-        while(!st.empty())
+        for(int i=n-1;i>=0;i--)
         {
-            stt.insert(st.top().second);
-            st.pop();
-        }
-        for(int i=0;i<n;i++)
-        {
-            if(!stt.contains(i))
+            if(!st.empty()&&st.top().second==i)
+            {
+                st.pop();
+            }
+            else
             {
                 ans+=s[i];
             }
         }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
