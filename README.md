@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Pavan2005-v/LeetCode-Problems/tree/main/3561-resulting-string-after-adjacent-removals/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
